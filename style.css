@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #030e63;
+    overflow: hidden;
+}
+
+.navbar a {
+  float: left;
+  color: #c4f2f3;
+  text-align: center;
+  padding: 20px 26px;
+  font-size: 17px;
+}
+
+img{
+    width: 500px
+}
+
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    .container {
+        text-align: center;
+    }
+}
+
+a:hover{
+    color: burlywood;
+}

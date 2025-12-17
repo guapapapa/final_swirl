@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 200px
+}
+
+p {
+    margin-right: 150px;
+    margin-left: 150px;
+    font-weight:400;
+    font-size: 18px; 
+
+}
+
+h2 {
+    margin-top: 75px
+}
+
+ul {
+    font-size: 17px;
+    text-align: left;
+    font-family: Brush Script MT;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-weight: 75;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+img {
+    width: 1000px;
+    image-orientation: 0turn;
+}
